@@ -48,3 +48,5 @@ It adds .kl files to fix keybindings on many game controllers.
  - **1.5.0:** Added support for DualSense and Zeemote SteelSeries FREE controllers.
  - **1.5.1:** Added support for DualShock 2. ([MattMasc](https://github.com/MattMasc))
  - **1.5.2:** Added support for Xbox Series X|S. ([RuiGuilherme](https://github.com/RuiGuilherme))
+ - **1.5.3:** Added support for Joy-Con ([s1w2a3](https://github.com/s1w2a3))
+ - **1.5.4:** Added support for Joy-Con like SwitchPro[pair in one] ([Sev73n](https://github.com/Sev73n/OneController))
