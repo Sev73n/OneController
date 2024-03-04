@@ -50,3 +50,4 @@ It adds .kl files to fix keybindings on many game controllers.
  - **1.5.2:** Added support for Xbox Series X|S. ([RuiGuilherme](https://github.com/RuiGuilherme))
  - **1.5.3:** Added support for Joy-Con ([s1w2a3](https://github.com/s1w2a3))
  - **1.5.4:** Added support for Joy-Con like SwitchPro[pair in one] ([Sev73n](https://github.com/Sev73n/OneController))
+ - **1.5.5:** Added support for Black Shark 2 L 黑鲨手柄2代 ffe0
