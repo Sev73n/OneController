@@ -1,0 +1,31 @@
+# Device name: 黑鲨双翼手柄L-18A7
+# Device id  : Vendor_ffe0_Product_0102
+
+# key <scancode> <action_button>
+key 304 BUTTON_A
+key 305 BUTTON_B
+key 307 BUTTON_X
+key 308 BUTTON_Y
+# key 310 BUTTON_L1
+key 310 BUTTON_L2
+# key 312 BUTTON_L2
+key 312 BUTTON_L1
+# key 318 BUTTON_THUMBR
+key 318 BUTTON_START
+
+# axis <scancode> <axis_name>
+axis 0x00 X
+axis 0x01 Y
+axis 0x0b Z
+axis 0x0f HAT_X
+axis 0x10 HAT_Y
+axis 0x0c RX
+axis 0x0d RY
+axis 0x0e RZ
+axis 0x11 LTRIGGER
+axis 0x12 RTRIGGER
+axis 0x17 BRAKE
+axis 0x16 GAS
+
+# keyboard
+# key <scancode> <action_button>
